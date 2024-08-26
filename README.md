@@ -15,3 +15,7 @@
 xhsgg12302/xhsgg12302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Activity Graph [ref](https://ashutosh00710.github.io/github-readme-activity-graph/)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xhsgg12302&bg_color=141321&color=a9fef7&line=fd428e&point=fd428e&area=true&hide_border=false)
